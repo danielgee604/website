@@ -17,11 +17,9 @@ h1, h2, h3, h4 {
  }
 
  header h1 {
-   text-align: left;
+   text-align:center;
    border-bottom: 5px solid grey;
  }
-
-/* Arrange images tomorrow*/
 
 body {
     background-color: rgb(245, 238, 224);
@@ -98,13 +96,15 @@ section {
 
 img {
    height: 300px;
+   margin-left: auto;
+   margin-right: auto;
    
 }
 
 .title {
    font-size: 48px;
    text-decoration: underline;
-   color: blue;
+   color: green;
 }
 
 .container {
